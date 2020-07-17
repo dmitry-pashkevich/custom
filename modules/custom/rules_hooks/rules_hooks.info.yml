@@ -1,0 +1,5 @@
+name: Custom Hooks
+description: Custom Hooks
+core: 8.x
+package: Custom Modules
+type: module
